@@ -294,7 +294,7 @@
     "commandTheme": "Toggle theme",
     "commandOpen": "Open command menu",
     "contactSuccess": "Thanks! Your message was sent — I'll get back to you within 24 hours.",
-    "contactError": "Please complete all fields before submitting.",
+    "contactError": "Please check the highlighted fields and try again.",
     "contactSending": "Sending...",
     "aboutHeading": "About Me",
     "aboutSubtitle": "Developer, problem-solver, and your technical partner from idea to launch.",

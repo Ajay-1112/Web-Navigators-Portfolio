@@ -16,6 +16,7 @@ Open [http://localhost:3000](http://localhost:3000).
 Copy `.env.example` to `.env.local` and add your Web3Forms access key:
 
 ```bash
+NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY=your_key_here
 WEB3FORMS_ACCESS_KEY=your_key_here
 ```
 
@@ -23,5 +24,8 @@ WEB3FORMS_ACCESS_KEY=your_key_here
 
 1. Push this repo to GitHub
 2. Import the project on [Vercel](https://vercel.com)
-3. Add `WEB3FORMS_ACCESS_KEY` in project environment variables
-4. Deploy
+3. Add environment variables:
+   - `NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY` — your Web3Forms key (required for contact form)
+   - `WEB3FORMS_ACCESS_KEY` — same key (optional, for API route)
+4. In Web3Forms, allow domain: `web-navigators-portfolio.vercel.app`
+5. Deploy
