@@ -1,0 +1,315 @@
+{
+  "personal": {
+    "name": "Ajay Bhardwaj",
+    "brandName": "Web Navigators",
+    "title": "Full Stack Developer | React, Next.js & Web Application Specialist",
+    "subtitle": "Web Navigators builds fast, scalable web applications and custom software for startups, agencies, and SaaS teams.",
+    "bio": "I'm a full-stack developer at Web Navigators, partnering with startups, agencies, and SaaS teams to ship production-ready web applications. I've collaborated with Jatin Dahiya on high-impact client projects — from e-commerce platforms to technology consultancy sites. From architecture to deployment, I focus on clean code, clear communication, and measurable business outcomes.",
+    "available": true,
+    "location": "Haryana, India",
+    "email": "ajaywebnavigators@gmail.com",
+    "github": "https://github.com/Ajay-1112",
+    "whatsapp": "919999999999",
+    "profileImage": "/about/ajay-profile.jpg"
+  },
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "Projects", "href": "/projects" },
+    { "label": "Services", "href": "#services" },
+    { "label": "About", "href": "#about" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+  "hero": {
+    "headline": "Helping Businesses Build Fast, Modern Web Applications",
+    "subheadline": "I build scalable web applications and custom software solutions that help businesses grow.",
+    "buttons": [
+      { "label": "View My Work", "href": "/projects", "variant": "default" },
+      { "label": "Let's Talk", "href": "#contact", "variant": "outline" }
+    ],
+    "floatingBadges": [
+      "Fast Delivery",
+      "Startup-Ready Execution",
+      "Reliable Communication"
+    ]
+  },
+  "trustTechnologies": [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Node.js",
+    "MongoDB",
+    "Prisma",
+    "PostgreSQL",
+    "Tailwind CSS"
+  ],
+  "stats": [
+    { "label": "Years Experience", "value": 2, "suffix": "+" },
+    { "label": "Projects Delivered", "value": 10, "suffix": "+" },
+    { "label": "Client Focus", "value": 100, "suffix": "%" }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Discovery Call",
+      "description": "We align on goals, scope, timeline, and success metrics so everyone starts on the same page."
+    },
+    {
+      "step": "02",
+      "title": "Proposal & Plan",
+      "description": "You receive a clear roadmap with milestones, deliverables, and transparent pricing."
+    },
+    {
+      "step": "03",
+      "title": "Build & Iterate",
+      "description": "Weekly updates, demo previews, and fast feedback loops keep momentum high."
+    },
+    {
+      "step": "04",
+      "title": "Launch & Support",
+      "description": "Production deployment, handoff documentation, and post-launch support when you need it."
+    }
+  ],
+  "services": [
+    {
+      "slug": "full-stack-development",
+      "title": "Full Stack Development",
+      "description": "End-to-end product development from interface to APIs and deployment pipelines.",
+      "icon": "Layers",
+      "highlights": ["Architecture planning", "Scalable APIs", "Production deployment"]
+    },
+    {
+      "slug": "react-development",
+      "title": "React Development",
+      "description": "Responsive React interfaces focused on speed, accessibility, and user experience.",
+      "icon": "Code2",
+      "highlights": ["Modern component systems", "Reusable design patterns", "Performance-focused UI"]
+    },
+    {
+      "slug": "nextjs-applications",
+      "title": "Next.js Applications",
+      "description": "SEO-ready and conversion-focused Next.js experiences for products and businesses.",
+      "icon": "Rocket",
+      "highlights": ["App Router", "Server rendering", "SEO optimization"]
+    },
+    {
+      "slug": "website-optimization",
+      "title": "Website Optimization",
+      "description": "Core Web Vitals and UX improvements to boost speed, retention, and conversions.",
+      "icon": "Gauge",
+      "highlights": ["Lighthouse tuning", "Bundle optimization", "UX diagnostics"]
+    },
+    {
+      "slug": "api-development",
+      "title": "API Development",
+      "description": "Secure APIs with robust validation, observability, and documentation.",
+      "icon": "Webhook",
+      "highlights": ["Type-safe contracts", "Auth and roles", "Monitoring and logs"]
+    }
+  ],
+  "projects": [
+    {
+      "slug": "portless-boats-americas",
+      "title": "Portless Boats Americas",
+      "description": "A high-performance e-commerce platform for premium inflatable electric boats — rebuilt for conversion, navigation, and a premium brand experience.",
+      "image": "/projects/portless-boats.png",
+      "techStack": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Framer Motion", "Stripe"],
+      "liveUrl": "https://portlessboatsamericas.com/",
+      "featured": true,
+      "industry": "Marine / E-commerce",
+      "timeframe": "8 weeks",
+      "role": "Full Stack Developer",
+      "collaboration": "Built with Jatin Dahiya at The Web Navigators",
+      "overview": "Co-developed a full-stack transformation of Portless Boats Americas — a premium inflatable electric boat brand serving customers and dealers across the Americas. The platform showcases boat models, financing options, testimonials, and a streamlined buyer journey.",
+      "problem": "The original website suffered from poor navigation, outdated design, and a user flow that failed to convert visitors into buyers — holding back a premium, innovative product line.",
+      "solution": "Under Jatin's direction, we reimagined the site structure, UX, and performance from the ground up — combining sleek aesthetics with a conversion-focused strategy, model showcases, financing flows, and trust-building social proof.",
+      "results": [
+        { "label": "Boats Delivered", "value": "1,000+" },
+        { "label": "Buyer Journey", "value": "Streamlined" },
+        { "label": "Platform Performance", "value": "High" }
+      ],
+      "screenshots": [
+        "/projects/portless-boats.png"
+      ]
+    },
+    {
+      "slug": "data-huakai",
+      "title": "Data Huaka'i",
+      "description": "A modern technology consultancy website for a Hawaiian SaaS, AI, and digital innovation firm — designed and built to convert visitors into strategy calls.",
+      "image": "/projects/data-huakai.png",
+      "techStack": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Framer Motion"],
+      "liveUrl": "https://www.datahuakai.com/",
+      "featured": true,
+      "industry": "Technology Consulting",
+      "timeframe": "6 weeks",
+      "role": "Designer & Full Stack Developer",
+      "collaboration": "Built under the guidance of Jatin Dahiya at The Web Navigators",
+      "overview": "Designed and developed the Data Huaka'i website — the parent company behind The Web Navigators. The site presents their services, case studies, team, testimonials, and a clear path for businesses to book strategy calls.",
+      "problem": "Data Huaka'i needed a professional web presence that communicated their systems-thinking approach, AI capabilities, and case study portfolio to attract growing businesses.",
+      "solution": "I designed and built a polished, conversion-focused platform with service breakdowns, project showcases, client testimonials, FAQ sections, and contact flows — all aligned with the brand's Hawaiian technology identity.",
+      "results": [
+        { "label": "Service Clarity", "value": "Improved" },
+        { "label": "Lead Generation", "value": "Strategy Calls" },
+        { "label": "Brand Presence", "value": "Premium" }
+      ],
+      "screenshots": [
+        "/projects/data-huakai.png"
+      ]
+    }
+  ],
+  "skills": {
+    "frontend": ["React", "Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    "backend": ["Node.js", "Express", "Prisma", "MongoDB", "PostgreSQL"],
+    "delivery": ["Performance Optimization", "CI/CD", "Scalable Architecture", "Monitoring"]
+  },
+  "whyWorkWithMe": [
+    {
+      "title": "Clean Code",
+      "description": "Readable architecture and maintainable systems your team can scale confidently.",
+      "icon": "Code2"
+    },
+    {
+      "title": "Fast Delivery",
+      "description": "Clear milestones and execution-focused sprints that keep projects moving.",
+      "icon": "Zap"
+    },
+    {
+      "title": "Responsive Communication",
+      "description": "Transparent updates, quick turnarounds, and dependable collaboration.",
+      "icon": "MessageSquareHeart"
+    },
+    {
+      "title": "Scalable Solutions",
+      "description": "Built for long-term growth with performance and reliability from day one.",
+      "icon": "TrendingUp"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Riya Sharma",
+      "role": "Founder",
+      "company": "MetricPilot",
+      "quote": "Ajay delivered beyond expectations. The product shipped faster and our onboarding metrics improved immediately.",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=80"
+    },
+    {
+      "name": "Karan Mehta",
+      "role": "Product Lead",
+      "company": "ScaleBridge",
+      "quote": "Strong technical ownership and excellent communication. We trusted him with critical features and he nailed them.",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=80"
+    },
+    {
+      "name": "Nisha Verma",
+      "role": "Operations Director",
+      "company": "LaunchHive Agency",
+      "quote": "The client portal transformed how we run projects. Delivery became smoother and clients noticed the difference.",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&q=80"
+    }
+  ],
+  "faq": [
+    {
+      "question": "How quickly can we start?",
+      "answer": "Most projects begin within 3 to 5 business days after requirements alignment."
+    },
+    {
+      "question": "Do you work with agencies as a white-label developer?",
+      "answer": "Yes. I regularly partner with agencies and can work under your brand with structured communication."
+    },
+    {
+      "question": "Can you support long-term product scaling?",
+      "answer": "Yes. I build with maintainability, observability, and scalability in mind so your product can grow smoothly."
+    },
+    {
+      "question": "What engagement models do you support?",
+      "answer": "I support fixed-scope builds, monthly retainers, and sprint-based collaboration."
+    }
+  ],
+  "contact": {
+    "heading": "Ready to build your next product?",
+    "subheading": "Share your project goals and I will follow up with a clear execution plan.",
+    "cta": "Start Your Project"
+  },
+  "footer": {
+    "copyright": "© 2026 Web Navigators. All rights reserved.",
+    "sections": [
+      {
+        "heading": "Quick Links",
+        "links": [
+          { "label": "Home", "href": "/" },
+          { "label": "Projects", "href": "/projects" },
+          { "label": "Services", "href": "#services" },
+          { "label": "Contact", "href": "#contact" }
+        ]
+      },
+      {
+        "heading": "Social",
+        "links": [
+          { "label": "GitHub", "href": "https://github.com/Ajay-1112" }
+        ]
+      }
+    ]
+  },
+  "seo": {
+    "title": "Web Navigators | Full Stack & Next.js Development Studio",
+    "description": "Web Navigators delivers premium development services for startups, agencies, and SaaS teams. React, Next.js, full stack builds, and high-performance web experiences.",
+    "siteUrl": "https://webnavigators.com",
+    "ogImage": "https://images.unsplash.com/photo-1516321165247-4aa89a48be28?auto=format&fit=crop&w=1400&q=80",
+    "keywords": [
+      "freelance full stack developer",
+      "next.js freelancer",
+      "react developer for startups",
+      "custom web application developer",
+      "website optimization services"
+    ]
+  },
+  "ui": {
+    "viewWork": "View My Work",
+    "letsTalk": "Let's Talk",
+    "featuredProjectsHeading": "Featured Projects",
+    "servicesHeading": "Services",
+    "trustHeading": "Trusted Technology Stack",
+    "whyHeading": "Why Work With Me",
+    "testimonialsHeading": "Client Testimonials",
+    "faqHeading": "Frequently Asked Questions",
+    "contactHeading": "Let's Build Something Great",
+    "projectsPageTitle": "Project Case Studies",
+    "projectsPageSubtitle": "Search, filter, and explore real delivery outcomes.",
+    "searchPlaceholder": "Search by title, industry, or technology",
+    "filterLabel": "Filter by Technology",
+    "allTechnologiesLabel": "All Technologies",
+    "prevLabel": "Previous",
+    "nextLabel": "Next",
+    "noProjectsTitle": "No matching projects",
+    "noProjectsDescription": "Try changing your search or technology filter.",
+    "projectCta": "View Case Study",
+    "githubCta": "GitHub",
+    "liveCta": "Live Demo",
+    "backToTop": "Back to top",
+    "commandPlaceholder": "Type a command or search...",
+    "commandTitle": "Quick Navigation",
+    "commandDescription": "Jump to pages and key actions.",
+    "commandProjects": "Open projects",
+    "commandServices": "Go to services",
+    "commandContact": "Go to contact",
+    "commandTheme": "Toggle theme",
+    "commandOpen": "Open command menu",
+    "contactSuccess": "Thanks! Your message was sent — I'll get back to you within 24 hours.",
+    "contactError": "Please complete all fields before submitting.",
+    "contactSending": "Sending...",
+    "aboutHeading": "About Me",
+    "aboutSubtitle": "Developer, problem-solver, and your technical partner from idea to launch.",
+    "processHeading": "How We'll Work Together",
+    "processSubtitle": "A clear, transparent process designed to reduce risk and deliver results on time.",
+    "hireMeLabel": "Hire Me",
+    "availableLabel": "Available for new projects",
+    "namePlaceholder": "Name",
+    "emailPlaceholder": "Email",
+    "projectDetailsPlaceholder": "Project Details",
+    "whatsappLabel": "WhatsApp",
+    "projectOverviewLabel": "Overview",
+    "projectProblemLabel": "Problem",
+    "projectSolutionLabel": "Solution",
+    "projectGalleryLabel": "Screenshots Gallery",
+    "projectCollaborationLabel": "Collaboration"
+  }
+}
